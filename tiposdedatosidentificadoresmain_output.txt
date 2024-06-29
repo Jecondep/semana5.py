@@ -1,0 +1,8 @@
+  File "main.py", line 73
+    En este programa, hemos agregado datos de ejemplo para tres estudiantes: Juan, María y Carlos. Puedes agregar más estudiantes de la misma manera si lo deseas.
+       ^
+SyntaxError: invalid syntax
+
+
+** Process exited - Return Code: 1 **
+Press Enter to exit terminal
